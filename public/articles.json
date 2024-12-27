@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "我的第一篇博客文章",
+    "content": "这是我的第一篇博客文章的内容。欢迎来到我的博客！",
+    "date": "2024-01-20",
+    "image": "/background1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "学习 React 的心得",
+    "content": "最近我一直在学习 React，这里是我的一些心得体会...",
+    "date": "2024-01-25",
+    "image": "/background2.jpg"
+  }
+]
+
