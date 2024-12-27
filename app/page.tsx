@@ -6,7 +6,7 @@ import OperationTimer from './components/OperationTimer'
 
 export default function Home() {
   return (
-    <main className="min-h-screen">
+    <main>
       <Welcome />
       <ArticleList />
       <ProjectsAndLinks />
