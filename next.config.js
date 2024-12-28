@@ -2,8 +2,8 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ['localhost'],
-    unoptimized: true
+    domains: [], // 如果不需要特定域名，可以清空数组
+    unoptimized: false // 建议设置为 false 以优化图像
   },
   // 确保正确的基础路径配置
   basePath: '',
@@ -11,5 +11,4 @@ const nextConfig = {
   // output: 'standalone', // 删除这行
 }
 
-module.exports = nextConfig
-
+module.exports = nextConfig;
